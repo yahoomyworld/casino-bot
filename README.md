@@ -5,8 +5,7 @@ It is able to play blackjack, slots, flip a coin, and roll dice. It stores every
 
 Feel free to download and use for yourself!
 
-<img src="./pictures/blackjack.png" alt="blackjack" height="200"/>
-<img src="./pictures/slots.gif" alt="slots" width="200"/>
+<img src="./pictures/slots.gif" alt="slots" width="400"/>
 
 ## Installation
 
